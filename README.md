@@ -1,5 +1,6 @@
 # FYP_Automation_Food_Waste_Classification
 #The source code is credit to pytorch framework official website as guidance
+#Special thanks to Assoc. Dr Syamsiah Mashohor in completing this project
 
 In this project, there are two different codes , which with different split approach.
 
