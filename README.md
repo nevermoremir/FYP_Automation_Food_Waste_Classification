@@ -8,7 +8,7 @@ Please download the datasets from google drive before run it.
 Datasets : https://drive.google.com/drive/folders/1aenzdTMwEeNogVEMEayoKXl7L5eTKM-9?usp=sharing
 
 Choose the right datasets for each code.
-Please read the codes thoroughly and change the directories in the code to yours local computer. 
+Please read the codes thoroughly and change the directories in the code to your local computer. 
 
 Any enquires can be email to nevermoremir@gmail.com
 
