@@ -1,6 +1,7 @@
 #This code will run and collect all the information of model performance and save the figure output plot as well as confusion matrix. 
 #Please read throughout the code and change the directory based on your computer location save. 
 #The datasets must be downlaod from google drive =  https://drive.google.com/drive/folders/1aenzdTMwEeNogVEMEayoKXl7L5eTKM-9?usp=sharing
+#Creadit to pytorch framework website as guidance for the code sources
 
 
 #library need to be installed
